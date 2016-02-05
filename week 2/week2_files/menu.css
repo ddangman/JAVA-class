@@ -1,0 +1,21 @@
+
+.menu {
+/*    margin: 0;  
+    position: fixed;
+    top: 10px;  
+    left: auto;  
+    width: 250px;  
+    right: 10px;
+    font-size: small;
+
+    background: #eee;
+    border: 1px solid #ffcc00;
+*/
+}
+
+.menu a, .menu h3 {
+/*
+    display:block;
+    margin:0 0.5em;
+*/
+}

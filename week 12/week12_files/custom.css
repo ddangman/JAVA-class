@@ -1,0 +1,559 @@
+#main {
+/*   width: 961px; */
+}
+
+#slogan {
+   color: #888;
+}
+
+
+#block-block-2 {
+   width: auto;
+   float: right;
+}
+
+#primary-menu.block {
+   background: url("../images/sf-tab-bg.jpg") repeat-x scroll 0 0 #010101;
+   width: 940px;
+   border-color: white;
+   border-style: solid;
+   border-width: 10px 11px 0 10px;
+}
+
+
+#primary-menu ul.menu li a:hover,
+#primary-menu ul.menu li:hover a:link,
+#primary-menu ul.menu li:hover a:visited,
+#primary-menu ul.menu li.hover a:link,
+#primary-menu ul.menu li.hover a:visited,
+#primary-menu ul.menu li.active-trail a:link,
+#primary-menu ul.menu li.active-trail a:visited {
+    background: url("../images/sf-tab-bg.jpg") repeat-x scroll 0 0 #010101;
+}
+
+#primary-menu #primary-menu-inner ul.menu li.first {
+    background: url("../images/sf-tab-bg.jpg") repeat-x center center transparent;
+}
+
+#primary-menu #primary-menu-inner ul.menu li.first  a{
+    background: url("../images/sf-home-icon.png") no-repeat center center transparent;
+    font-size: 0;
+}
+
+#primary-menu #primary-menu-inner li.expanded  ul{
+width: auto;
+padding-top: 20px;
+}
+
+#primary-menu #primary-menu-inner ul.menu li.expanded li.first  a,
+#primary-menu #primary-menu-inner ul.menu li.expanded li a{
+    background: #aae;
+    font-size: 1.2em;
+    width: auto;
+    text-decoration: none;
+}
+
+#primary-menu ul.menu li:hover,
+#primary-menu ul.menu li.hover,
+#primary-menu ul.menu li.active-trail {
+    background-image: url("../images/sf-tab-right.jpg");
+    background-position: -190px 0;
+}
+
+#primary-menu ul.menu li {
+   background: url("../images/sf-tab-right.jpg") no-repeat scroll -190px 0px #010101;
+   margin: 0;
+   font-weight: normal;
+   max-width: 200px;
+}
+
+#primary-menu ul.menu li {
+   font-family: Arial, Helvetica, sans-serif;
+   letter-spacing: 1px;  
+   padding: 0px 0px 0px 10px;
+}
+
+
+#primary-menu ul.menu li a:link, 
+#primary-menu ul.menu li a, 
+#primary-menu ul.menu li a:visited   {
+   background: url("../images/sf-tab-bg.jpg") repeat-x scroll 0 0 #010101;
+   color: #ffb400;
+   text-align: center;
+   padding: 12px 23px 12px 23px;
+}
+
+.page-inner {
+    background: url("../images/sf-background.jpg") repeat-x scroll 0 0 #010101;
+}
+
+#header-top-wrapper,
+#header-group-wrapper { 
+    background: transparent;
+    border-bottom: 0;
+}
+
+div.clearfix #header-site-info {
+    width: auto;
+}
+
+#primary-menu ul.menu li a{
+    padding:  padding: 5px 13px 5px 0;
+}
+
+#primary-menu.block .inner {
+    float: left;
+}
+
+#primary-menu ul.menu li.last a,
+#primary-menu ul.menu li.last a:link,
+#primary-menu ul.menu li.last a:visited{
+   background: url("../images/sf-tab-bg.jpg") repeat-x scroll 0 0 #010101;
+   color: #ffb400;
+}
+
+#main-wrapper {
+   background: transparent;
+   padding-top: 0;
+}
+
+#main-inner {
+   background-color: white;
+   padding-top: 20px;
+}
+
+html.js {
+    background: no-repeat scroll 0 0 #000;
+}
+
+div.box {
+    border: 1px solid #DDD;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+/*div.box div {
+    width: 100%;
+    }
+*/
+div.box h2.pane-title {
+    background-color: #A49909;
+    color: white;
+    font-size: 1em;
+    font-weight: normal;
+    letter-spacing: 1px;
+    margin: 0;
+    padding: 4px;
+    text-transform: uppercase;
+    line-height: 20px;
+}
+
+div.blue h2.pane-title {
+    background-color: #afc6fe;
+}
+
+div.green h2.pane-title {
+    background-color: #4cb863;
+}
+
+div.red h2.pane-title {
+    background-color: #dd8970;
+}
+
+div.full-node .inner .content,
+h1.title,
+.footer-message {
+    border-bottom: 0;
+    border-top: 0;
+}
+
+#footer-message {
+    background: url("../images/sf-bottom.png") no-repeat scroll 0 0 transparent;
+    min-height: 58px;
+}
+
+#search-block-form {
+    padding-top: 20px;
+}
+
+#search-block-form label {
+    display: none;
+}
+
+#site-name a {
+    color: #FFB400;
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+/*#header-top-block {
+    float:right;
+}
+*/
+
+#search-box {
+    width: 250px;
+}
+
+#search-box #search-box-inner {
+    background: none repeat scroll 0 0 transparent;
+    border-style: none none solid solid;
+    border-width: 0;
+    float: none;
+    padding: 0px;
+    width: auto;
+}
+
+.search-box-inner input.search-submit {
+    -moz-outline-radius: 0 0 0 0;
+    background: url("../images/sf-search-button.png") no-repeat scroll 0 0 transparent;
+    border: 0 none;
+    border-radius: 0 0 0 0;
+    height: 30px;
+    outline: 0 none;
+    width: 30px;
+}
+
+#search-box #edit-search-theme-form-header {
+    height: 24px;
+}
+
+#footer-message #search-box {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
+
+#header-top-block a,
+#header-top-block a:link,
+#header-top-block a:visited,
+#header-top-block a:hover,
+#header-top-block a:active {
+    color: #888;
+    text-decoration: none;
+}
+
+/*#views_slideshow_singleframe_main_projects-block_1,
+div.views-field-field-project-banner-fid {
+    position: relative;
+    background-color: #111;
+}
+*/
+
+#project-content a,
+#project-content a:link,
+#project-content a:visited {
+    color: #73a9ee;
+    text-decoration: none;
+}
+
+#transparency {
+    background-color: black;
+    opacity: 0.8;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 500px;
+    height: 120px;
+}
+
+#project-content {
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+div.item-list ul{
+    padding-top: 5px;
+}
+
+div.views-slideshow-controls-top { 
+    float:right;
+}
+
+.views_slideshow_singleframe_pager div {
+    display: block;
+}
+
+.views_slideshow_singleframe_pager div a img {
+    width: auto;
+}
+
+div.thumbnails img {
+    background-color: white;
+    border: 1px solid #DDD;
+    border-radius: 2px;
+    float: left;
+    padding: 3px;
+    margin: 5px
+}
+
+div.thumbnails div.views-field-view-node {
+    color: #666;
+    font-size: 0.9em;
+}
+
+div.thumbnails h3 {
+    padding-top: 11px;
+}
+
+div.thumbnails div.views-row {
+    padding-top: 3px;
+}
+
+#front-page-links {
+    color: white; 
+    text-transform: uppercase; 
+    position: relative; 
+    text-align: center; 
+    margin: 0px;
+}
+
+#front-page-links a {
+    color: white;
+    text-decoration: none;
+}
+
+tr.odd, tr.odd td {
+    background-color: #FAFAFA;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+tr.even, tr.even td {
+    background-color: #F4F4F4;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+div.node h2.title {
+    border-bottom: 0;
+}
+
+#block-block-2,
+#block-block-5 {
+    float: right;
+    width: auto;
+}
+
+#admin-menu li.admin-menu-shortcuts {
+    float: left;
+}
+
+body.font-size-13  #main-wrapper {
+background: #F5F7E7 url(../images/content-gradient.png) repeat-x 0 1px;
+}
+
+body.font-size-13 #footer-message-wrapper,
+body.font-size-13 #footer-message {
+background: #F5F7E7;
+min-height: 150px;
+}
+
+body.font-size-13  #page-inner {
+background: #eff2f4 url(/sites/linkki.cs.helsinki.fi/files/blue-back.jpg) repeat-x 0 1px;
+}
+
+
+body.font-size-13 #primary-menu {
+    float: left;
+    width: auto;
+}
+
+body.font-size-13 div.course-menu {
+  background: white;
+  margin-top: -30px;
+  border-top: 0px;
+  border-bottom: 1px solid #DDD;
+  border-left: 1px solid #DDD;
+  border-right: 1px solid #DDD;
+  margin-bottom: 10px;
+padding-bottom: 10px;
+    padding-left: 27px;
+    padding-top: 10px;
+  font-size: 0.8em;
+}
+
+body.font-size-13 div.box div.pane-content {
+  padding-top: 10px;
+}
+
+body.font-family-lucida #site-name-wrapper {
+float: none;
+}
+
+
+body.font-family-lucida #primary-menu ul.menu li {
+  max-width: none;
+}
+
+body.font-family-lucida #primary-menu #primary-menu-inner ul.menu li.first a {
+    background-image: none;
+    font-size: 1em;
+}
+
+pre {
+font-family: "Courier New", Courier, monospace;
+padding: 10px;
+border: 1px solid #555;
+background-color: white;
+}
+
+div.margin-top {
+margin-top: 10px;
+}
+
+div.box h2.block-title a {
+color: white;
+text-decoration: none;
+}
+
+
+div.viikkoraja-mooc h2:first-child {
+    margin-top: 1em;
+}
+
+div.main-wrapper div.sets div.item-list ul li.views-row {
+display: inline-block;
+background: none repeat scroll 0 0 transparent;
+border-bottom: 1px solid grey;
+text-align: center;
+padding: 0 10px;
+margin-left: -5px;
+min-width: 150px;
+zoom:1;
+*display:inline;
+}
+
+div.main-wrapper div.sets div.item-list ul li.views-row.active {
+*margin-bottom: -5px;
+}
+
+div.main-wrapper div.sets div.item-list div.field-title {
+font-size: 1.2em;
+}
+
+div.main-wrapper div.sets div.item-list div.field-deadline {
+color: grey;
+min-height: 1px;
+}
+
+div.main-wrapper div.sets div.item-list a:hover,
+div.main-wrapper div.sets div.item-list a.active  {
+border-bottom: 3px solid grey;
+display: block;
+margin-bottom: 0px;
+*border-bottom: 0px;
+}
+
+
+div.main-wrapper div.sets div.item-list a {
+margin-bottom: 3px;
+display: block;
+text-decoration: none;
+}
+
+
+div.sets h2 {
+    float: left;
+    font-size: 1.3em;
+    font-weight: lighter;
+    margin-right: 30px;
+    padding-top: 10px;
+}
+
+#main-wrapper div.course-pages ul.menu li {
+    background-color: white;
+    border-bottom: 1px dotted #ccc;
+    color: grey;
+    font-size: 1.3em;
+    padding: 10px;
+    background-image: none;
+
+}
+
+
+#main-wrapper div.course-pages ul.menu li li{
+    font-size: 0.9em;
+    border: 0px;
+}
+
+
+#main-wrapper div.course-pages ul.menu li a:hover{
+  text-decoration: none;
+  }
+
+div.box-mooc {
+background: white;
+font-size: 1.1em;
+border: 1px solid #DDD;
+    margin-bottom: 10px;
+    padding: 20px;
+line-height: 150%;
+}
+
+div.box-mooc h2,
+div.box-mooc h3,
+div.box-mooc h4,
+div.box-mooc h5 {
+font-weight: normal;
+text-transform: uppercase;
+padding-bottom: 8px;
+padding-top: 20px;
+
+}
+
+div.box-mooc h2.pane-title {
+border-bottom: 1px dotted grey;
+    font-size: 2em;
+    text-transform: none;
+    line-height: 1em;
+}
+
+div.float-right {
+float: right;
+}
+
+html.js body.sidebars-both-first #page div.page-inner{
+    background: url("../images/sf-tab-bg.jpg") repeat scroll 0 0 transparent;
+}
+
+body.sidebars-both-first  #page #page-inner #primary-menu.block {
+    border-style: solid;
+    border-width: 0;
+}
+body.sidebars-both-first #primary-menu ul.menu li a:link, 
+body.sidebars-both-first #primary-menu ul.menu li a, 
+body.sidebars-both-first #primary-menu ul.menu li a:visited {
+    color: #eee;
+    padding: 8px 23px;
+}
+
+body.sidebars-both-first #main-wrapper {
+    background: none repeat-x scroll 0 1px #Fafafa;
+}
+
+body.sidebars-both-first #footer-message-wrapper, body.font-size-13 #footer-message {
+    background: none repeat scroll 0 0 #F8f8f8;
+}
+
+body.sidebars-both-first #page #primary-menu ul.menu li:hover ul.menu li a,
+body.sidebars-both-first #page #primary-menu ul.menu li.hover ul.menu li a,
+body.sidebars-both-first #page #primary-menu ul.menu li ul.menu li a{
+background:  url("../images/sf-tab-bg.jpg") repeat bottom;
+color: #eee;
+width: 200px;
+padding: 10px;
+text-align: left;
+}
+
+body.sidebars-both-first #page #primary-menu ul.menu li:hover ul.menu,
+body.sidebars-both-first #page #primary-menu ul.menu li:hover ul.menu,
+body.sidebars-both-first #page #primary-menu ul.menu li ul.menu {
+margin-top: -15px;
+
+}
+
+div.pane-content h1.title {
+padding-top: 15px;
+}
